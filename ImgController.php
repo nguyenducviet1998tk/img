@@ -9,6 +9,7 @@ use Intervention\Image\ImageManagerStatic as Image;
 use Validator;
 use App\Img;
 use App\User;
+use Auth;
 
 class ImgController extends Controller
 {
